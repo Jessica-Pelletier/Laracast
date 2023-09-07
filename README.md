@@ -1,2 +1,4 @@
 # Laracast
-Laracast walkthroughs 1-4 for Jessica Pelletier
+Jessica Pelletier
+Laracast walkthroughs 1-4 
+https://github.com/Jessica-Pelletier/Laracast.git
