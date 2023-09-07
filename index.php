@@ -7,9 +7,16 @@
 </head>
 <body>
     <h1> 
-        <?php echo "Hello, World"; 
+        <?php 
+            echo "Hello, World"; 
         ?>
     </h1>
+    <p> 
+        <?php 
+            echo "It took me a little bit to get here, but I think I've got it now.";
+        ?>
+    </p>
+
     
 </body>
 
